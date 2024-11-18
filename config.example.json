@@ -5,8 +5,8 @@
     "port": "2332",
     "database": {
         "HOST": "localhost",
-        "USER": "",
-        "PASSWORD": "",
+        "USER": "Redzin",
+        "PASSWORD": "022141530",
         "DB": "",
         "dialect": "mysql",
         "port": 3306
